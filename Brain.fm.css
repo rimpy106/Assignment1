@@ -1,0 +1,27 @@
+.section-1{
+	background-color:blue;
+	color:white;
+	display:flex;
+	flex-direction:row;
+	align-items:center;
+	margin-bottom:100px;
+	justify-content: space-around;
+	
+	
+}
+a:visited{
+	color:white;
+}
+
+input[type='button']{
+	font-weight:bold;
+	border-radius:10px;
+	border:0px;
+	padding:5px 10px;
+}
+
+body{
+	margin:0px;
+	background-color:blue;
+
+}
